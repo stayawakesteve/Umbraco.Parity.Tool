@@ -1,0 +1,5 @@
+# Extra paths to crawl, one per line. Use for pages the sitemap and Delivery API miss:
+# search results, filtered listings, paginated pages, 404 page, member-only pages.
+# /search/?q=test
+# /news/?page=2
+# /this-page-does-not-exist/
