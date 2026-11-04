@@ -1,4 +1,4 @@
-# umbraco-parity
+# Umbraco.Parity.Tool
 
 Crawls every published page on the upgraded v17 site and compares it with the same page on the original v13 site. Both sites must run against the same content snapshot, so any difference is the upgrade's fault, not an editor's.
 
